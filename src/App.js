@@ -32,7 +32,7 @@ function App() {
               align: "center",
               dataIndex: "userId",
               key: "userId",
-              title: "USERID",
+              title: "UserId",
               width: 100,
             },
             {
